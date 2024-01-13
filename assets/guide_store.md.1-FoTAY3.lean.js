@@ -1,0 +1,1 @@
+import{_ as s,o as i,c as a,R as e}from"./chunks/framework.GMe7lAwE.js";const g=JSON.parse('{"title":"全局状态管理","description":"","frontmatter":{},"headers":[],"relativePath":"guide/store.md","filePath":"guide/store.md"}'),n={name:"guide/store.md"},t=e("",7),l=[t];function p(h,k,r,d,o,c){return i(),a("div",null,l)}const y=s(n,[["render",p]]);export{g as __pageData,y as default};

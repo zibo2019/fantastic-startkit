@@ -1,0 +1,1 @@
+import{_ as s,o as a,c as i,R as t}from"./chunks/framework.GMe7lAwE.js";const g=JSON.parse('{"title":"常用 API","description":"","frontmatter":{},"headers":[],"relativePath":"guide/api.md","filePath":"guide/api.md"}'),e={name:"guide/api.md"},n=t("",10),p=[n];function h(l,k,r,d,o,c){return a(),i("div",null,p)}const y=s(e,[["render",h]]);export{g as __pageData,y as default};
